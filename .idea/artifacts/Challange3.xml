@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Challange3">
+    <output-path>$PROJECT_DIR$/out/artifacts/Challange3</output-path>
+    <root id="archive" name="Challange3.jar" />
+  </artifact>
+</component>
